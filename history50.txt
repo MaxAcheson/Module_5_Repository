@@ -1,0 +1,52 @@
+   11  cd .
+   12  cd .
+   13  git status 
+   14  cd .
+   15  cd .
+   16  cd ..
+   17  ls
+   18  git status
+   19  git add .
+   20  git commit -m "Added starter code and a few lines of code"
+   21  git push origin main
+   22  git status
+   23  git add .
+   24  git commit -m "Finalized code"
+   25  git push origin main
+   26  git status
+   27  git status
+   28  git add .
+   29  git commit -m "Deleted hashed-out assistance text from assignment"
+   30  git push origin main
+   31  git status
+   32  git add .
+   33  git commit -m "fixed some typos"
+   34  git push origin main
+   35  git status
+   36  git add .
+   37  git commit -m "Typos again"
+   38  git push origin main
+   39  git status
+   40  git add .
+   41  git commit -m edited read me. checking markdown accuracy."
+'
+"
+   42  git commit -m "readme first commit"
+   43  git push origin main
+   44  git add .
+   45  git commit -m "second readme edit"
+   46  git push origin main
+   47  git status
+   48  git add . 
+   49  git status
+   50  git commit -m "Finished readme"
+   51  git push origin main
+   52  git status
+   53  git add .
+   54  git commit -m "first typo found"
+   55  git push origin main
+   56  git status
+   57  git add .
+   58  git commit -m "Edited a few things in readme"
+   59  git push origin main
+   60  history 50 > history50.txt
