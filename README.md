@@ -9,4 +9,9 @@ Second, the project analyzes two future scenario models in order to help the cli
 This project utilizes python 3.7 along with the following packages:
 
 [dotenv](https://pypi.org/project/python-dotenv/)
+
 [requests](https://pypi.org/project/requests/)
+
+[pandas](https://pandas.pydata.org/)
+
+[alpaca sdk](https://pypi.org/project/alpaca-trade-api/)
