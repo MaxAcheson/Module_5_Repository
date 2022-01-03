@@ -2,7 +2,7 @@
 
 This project serves two purposes:
 First, it examines the current value of cryptocurrencies, stocks, and bonds held within a client's portfolio to determine if they can be used to fund an emergency savings account. 
-Second, the project analyzes two future scenario models in order to help the client visualize their plausible retirement timeframe. 
+Second, the project analyzes two future-scenario models to estimate long-term portfolio growth in order to help the client visualize their plausible retirement timeframe. 
 
 ## Technologies
 
