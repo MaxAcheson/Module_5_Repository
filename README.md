@@ -1,4 +1,4 @@
-# Portfolios Analysis for Emergency and Retirement Planning
+# Portfolio Analysis for Emergency and Retirement Planning
 
 This project serves two purposes:
 First, it examines the current value of cryptocurrencies, stocks, and bonds held within a client's portfolio to determine if they can be used to fund an emergency savings account. 
